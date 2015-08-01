@@ -13,9 +13,11 @@ hack css3字体应用  media 媒体应用
 	font color size
 	text etc...
 	
-## 图片与文字一起是line--height无效
+## 图片与文字
 
-默认基线对齐
+当图片与文字一起时line-height无效
+
+	原因：默认基线对齐
 
 **解决办法** 
 
