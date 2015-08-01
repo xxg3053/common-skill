@@ -13,3 +13,11 @@ hack css3字体应用  media 媒体应用
 	font color size
 	text etc...
 	
+## 图片与文字一起是line--height无效
+
+默认基线对齐
+
+**解决办法** 
+
+1. 使用内联元素 `vertical-align:middle;`
+2. 将图片浮动
